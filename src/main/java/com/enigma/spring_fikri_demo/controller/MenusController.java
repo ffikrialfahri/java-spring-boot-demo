@@ -1,6 +1,6 @@
 package com.enigma.spring_fikri_demo.controller;
 
-import com.enigma.spring_fikri_demo.model.Menu;
+import com.enigma.spring_fikri_demo.entity.Menu;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.ArrayList;
